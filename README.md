@@ -17,9 +17,11 @@ _(Yes, that's where Shandong is in China! I know you're curious—so I saved you
 - 🤝 **Open to collaborating** on **LeetCode, ML projects, and industry applications**.  
 - 🎯 **Looking for** connections in **industry hiring, resume reviews, and mock interviews**.
 
-## Me in the past
+
+## Previous Highlights
 
 - 📄 **Published in *Nature Communications***—used **reinforcement learning** to predict **neuromodulation effects** on brain imaging and behavior.
+- 🧠 Published in Cerebral Cortex—applied Bayesian models to explore why people may lose self-control.
 
 
 ## 💬 A Few More Things: 
