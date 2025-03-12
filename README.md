@@ -16,7 +16,8 @@ Welcome to my GitHub! 🚀
 
 ## 💬 Fun Facts About Me:
 - ☕ Can’t function without **coffee** in the morning.  
-- 🚴 Loves **BodyPump & sprint cycling**—work hard, sweat harder!  
+- 🚴 Loves **BodyPump & pilates**—work hard, sweat harder!
+- 🏃‍♀️ **Marathoner at heart**—ran **one full marathon** and **several half marathons** in my 20s.  
 - 📚 Enjoys reading **biographies & tech innovations**.  
 - 🔍 Always **curious** and on the lookout for **new challenges**.  
 
