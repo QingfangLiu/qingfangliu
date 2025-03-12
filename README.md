@@ -20,8 +20,9 @@ _(Yes, that's where Shandong is in China! I know you're curious—so I saved you
 
 ## Previous Highlights
 
-- 📄 **Published in *Nature Communications***—used **reinforcement learning** to predict **neuromodulation effects** on brain imaging and behavior.
-- 🧠 Published in Cerebral Cortex—applied Bayesian models to explore why people may lose self-control.
+- 📄 Published in ***Nature Communications***—used **reinforcement learning** to predict **neuromodulation effects** on brain imaging and behavior.
+- 🧠 Published in ***Cerebral Cortex***—applied **Bayesian models** to explore why people may lose self-control.
+- 🔄 Designed a **dynamical system** to simulate behavioral and neural activity simultaneously in a fast choice task.
 
 
 ## 💬 A Few More Things: 
