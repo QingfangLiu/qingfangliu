@@ -18,12 +18,12 @@ _(Yes, that's where Shandong is in China! I know you're curious—so I saved you
 - 🎯 **Looking for** connections in **industry hiring, resume reviews, and mock interviews**.
 
 ## 💬 Fun Facts About Me:
-- ☕ Can’t function without **coffee** in the morning.  
 - 🚴 Loves **BodyPump & pilates**—work hard, sweat harder!
 - 🏃‍♀️ **Marathoner at heart**—ran **one full marathon** and **several half marathons** in my 20s.  
-- 📚 Enjoys reading **biographies & tech innovations**.  
-- 🔍 Always **curious** and on the lookout for **new challenges**.  
-
+- 📚 Enjoys reading **biographies & tech innovations**.
+- 🗣 **2025 Goal:** Use **more idioms naturally** without people realizing I’m doing it. 
+- 🎭 Will overanalyze **characters, systems, and human nature** if given the chance. Proceed with caution. 😆
+  
 ---
 
 ### 💌 Let's Connect!
