@@ -1,15 +1,29 @@
-## Hi there 👋, my name is Qingfang Liu (刘晴方)
+## Hi there 👋, I'm Qingfang Liu (刘晴方) 
 
-## About me
+Welcome to my GitHub! 🚀 
 
-I'm from Shandong province of China, currently living in Baltimore, MD. 
+🌏 Born and raised in **Shandong, China**, now exploring the world from **Baltimore, MD**.  
+🎯 Passionate about **data science, neuroscience, and solving real-world problems** with **AI & analytics**.
 
-![My Image](shandong_location.gif)
+![Where I'm from](shandong_location.gif)
 
+## 💡 About Me
 
-- 🔭 I’m currently working on job search of data scientist job mostly in healthcare industry. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with someone looking at my industry resume and/or mock interviews. 
+- 🏗 **Actively building** my career in **data science**, with a focus on **healthcare**.  
+- ⚡ **Currently learning** PySpark to supercharge **brain imaging data analysis**.  
+- 🤝 **Open to collaborating** on **LeetCode, ML projects, and industry applications**.  
+- 🎯 **Looking for** connections in **industry hiring, resume reviews, and mock interviews**.
+
+## 💬 Fun Facts About Me:
+- ☕ Can’t function without **coffee** in the morning.  
+- 🚴 Loves **BodyPump & sprint cycling**—work hard, sweat harder!  
+- 📚 Enjoys reading **biographies & tech innovations**.  
+- 🔍 Always **curious** and on the lookout for **new challenges**.  
+
+---
+
+### 💌 Let's Connect!
+🔗 [LinkedIn](https://www.linkedin.com/in/qingfang-liu/) | 📫 Reach me at: psychliuqf@gmail.com
+
 
 
