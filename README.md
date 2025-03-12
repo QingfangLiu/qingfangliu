@@ -4,6 +4,7 @@
 
 I'm from Shandong province of China, currently living in Baltimore, MD. 
 
+![My Image](shandong_location.gif)
 
 
 - 🔭 I’m currently working on job search of data scientist job mostly in healthcare industry. 
