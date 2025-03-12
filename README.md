@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, my name is Qingfang Liu (刘晴方)
+
+## About me
+
+I'm from Shandong province of China, currently living in Baltimore, MD. 
 
 - 🔭 I’m currently working on job search of data scientist job mostly in healthcare industry. 
 - 🌱 I’m currently learning ...
