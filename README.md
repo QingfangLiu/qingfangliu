@@ -7,6 +7,9 @@ Welcome to my GitHub! 🚀
 
 ![Where I'm from](shandong_location.gif)
 
+_(Yes, that's where Shandong is in China! I know you're curious—so I saved you the trouble of asking 😉)_
+
+
 ## 💡 About Me
 
 - 🏗 **Actively building** my career in **data science**, with a focus on **healthcare**.  
