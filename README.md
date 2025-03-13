@@ -31,7 +31,6 @@ _(Yes, that's where Shandong is in China! I know you're curious—so I saved you
 - 📚 Enjoys reading **biographies & tech innovations**.
 - 🗣 **2025 Goal:** Use **more idioms naturally** without people realizing I’m doing it.
 - 🎲 My favorite graduate class was **stochastic processes**—it taught me to embrace uncertainty and adapt quickly.
-- 🎭 Will overanalyze **characters, systems, and human nature** if given the chance. Proceed with caution. 😆
   
 ---
 
