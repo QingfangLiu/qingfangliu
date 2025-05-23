@@ -24,13 +24,6 @@ _(Yes, that's where Shandong is in China! I know you're curious—so I saved you
 - 🧠 Published in ***Cerebral Cortex***—applied **Bayesian models** to explore why people may lose self-control.
 - 🔄 Designed a **dynamical system** to simulate behavioral and neural activity simultaneously in a fast choice task.
 
-
-## 💬 A Few More Things: 
-- 🚴 Loves **BodyPump & pilates**—work hard, sweat harder!
-- 🏃‍♀️ **Marathoner at heart**—ran **one full marathon** and **several half marathons** in my 20s.  
-- 📚 Enjoys reading **biographies & tech innovations**.
-- 🗣 **2025 Goal:** Use **more idioms naturally** without people realizing I’m doing it.
-- 🎲 My favorite graduate class was **stochastic processes**—it taught me to embrace uncertainty and adapt quickly.
   
 ---
 
