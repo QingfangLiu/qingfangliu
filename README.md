@@ -2,15 +2,16 @@
 
 Welcome to my GitHub.
 
-I’m passionate about data science, neuroscience, and applying computational tools to real-world problems in AI, healthcare, and behavioral research.
+I specialize in cognitive science, neuroscience, and data science — with a current focus on applying machine learning and AI to real-world challenges in healthcare and human behavior.
 
 ---
 
 ## About Me
 
-- Currently building my career in **data science**, with a focus on **healthcare and human-centered AI**.
+- Actively transitioning from academic research to industry roles in **data science** and **AI**, especially in **healthcare**, **decision-making systems**, and **human-centered technologies**.
+- Experienced in analyzing **large-scale behavioral and fMRI data**, with an emphasis on **latent representation models**.
 - Learning and applying **PySpark** to accelerate brain imaging and large-scale behavioral data analysis.
-- Interested in **ML applications**, **model interpretability**, and **decision-making systems**.
+- Strong foundation in **computational modeling**, **reinforcement learning**, **Bayesian inference**, and **generative methods**.
 - Open to collaborating on applied projects, industry use cases, and cross-disciplinary tools.
 
 ---
@@ -30,9 +31,10 @@ To see a full portfolio of my work, visit my website:
 
 ---
 
-### 💌 Let's Connect!
-🔗 [LinkedIn](https://www.linkedin.com/in/qingfang-liu/) 
-📫 Reach me at: psychliuqf@gmail.com
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/qingfang-liu/) 
+- Email: psychliuqf@gmail.com
 
 
 
