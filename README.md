@@ -1,13 +1,8 @@
 ## Hi there 👋, I'm Qingfang Liu (刘晴方) 
 
 Welcome to my GitHub! 🚀 
-
-🌏 Born and raised in **Shandong, China**, now exploring the world from **Baltimore, MD**—but open to exploring a new city with my next opportunity.  
+ 
 🎯 Passionate about **data science, neuroscience, and solving real-world problems** with **AI & analytics**.
-
-![Where I'm from](shandong_location.gif)
-
-_(Yes, that's where Shandong is in China! I know you're curious—so I saved you the trouble of asking 😉)_
 
 
 ## 💡 About Me
