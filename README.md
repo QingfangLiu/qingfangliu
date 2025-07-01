@@ -10,17 +10,18 @@ I specialize in cognitive science, neuroscience, and data science — with a cur
 
 - Actively transitioning from academic research to industry roles in **data science** and **AI**, especially in **healthcare**, **decision-making systems**, and **human-centered technologies**.
 - Experienced in analyzing **large-scale behavioral and fMRI data**, with an emphasis on **latent representation models**.
-- Learning and applying **PySpark** to accelerate brain imaging and large-scale behavioral data analysis.
 - Strong foundation in **computational modeling**, **reinforcement learning**, **Bayesian inference**, and **generative methods**.
 - Open to collaborating on applied projects, industry use cases, and cross-disciplinary tools.
 
 ---
 
-## Selected Highlights
+## Current Projects
 
-- Published in *Nature Communications* — used reinforcement learning to predict neuromodulation effects on brain imaging and behavior.
-- Published in *Cerebral Cortex* — applied Bayesian models to understand the neural basis of self-control.
-- Developed a dynamical system to simulate behavioral and neural activity in decision tasks.
+- **Climate Risk Modeling in Bhutan**  
+  Collaborating on a project to predict extreme weather events (e.g., glacial lake outburst floods and monsoon floods) using meteorological data and geospatial analysis.
+
+- **Resting-State fMRI with Conditional VAE**  
+  Applying conditional variational autoencoders (cVAEs) to identify latent structures in resting-state fMRI data, aiming to improve understanding of brain–behavior relationships.
 
 ---
 
