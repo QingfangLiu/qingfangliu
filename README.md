@@ -4,8 +4,6 @@ Welcome to my GitHub.
 
 I specialize in cognitive science, neuroscience, and data science — with a current focus on applying machine learning and AI to real-world challenges in healthcare and human behavior.
 
----
-
 ## About Me
 
 - Actively transitioning from academic research to industry roles in **data science** and **AI**, especially in **healthcare**, **decision-making systems**, and **human-centered technologies**.
@@ -13,7 +11,6 @@ I specialize in cognitive science, neuroscience, and data science — with a cur
 - Strong foundation in **computational modeling**, **reinforcement learning**, **Bayesian inference**, and **generative methods**.
 - Open to collaborating on applied projects, industry use cases, and cross-disciplinary tools.
 
----
 
 ## Current Projects
 
@@ -24,7 +21,6 @@ I specialize in cognitive science, neuroscience, and data science — with a cur
 - **Resting-State fMRI with Conditional VAE**  
   Applying conditional variational autoencoders (cVAEs) to identify latent structures in resting-state fMRI data, aiming to improve understanding of brain–behavior relationships.
 
----
 
 ## Learn More
 
