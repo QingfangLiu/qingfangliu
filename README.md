@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-I specialize in cognitive science, neuroscience, and data science — with a current focus on applying machine learning and AI to real-world challenges in healthcare and human behavior.
+I bring expertise from my background in psychology, computational cognitive modeling, and cognitive neuroscience, complemented by my ongoing efforts to stay up to date with advancements in data science and AI. My interdisciplinary training equips me with a unique perspective to understand human needs in the context of technology. It also enables me to recognize what current AI technologies lack—drawing from both computational and biological understandings of human cognition.
 
 ## About Me
 
