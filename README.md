@@ -17,7 +17,8 @@ I specialize in cognitive science, neuroscience, and data science — with a cur
 
 ## Current Projects
 
-- **Climate Risk Modeling in Bhutan**  
+- [**Climate Risk Modeling in Bhutan**](https://github.com/QingfangLiu/bhutan_climate_modeling)  
+  
   Collaborating on a project to predict extreme weather events (e.g., glacial lake outburst floods and monsoon floods) using meteorological data and geospatial analysis.
 
 - **Resting-State fMRI with Conditional VAE**  
