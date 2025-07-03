@@ -27,8 +27,6 @@ I bring expertise from my background in psychology, computational cognitive mode
 To see a full portfolio of my work, visit my website:  
 👉 [qingfangliu.github.io](https://qingfangliu.github.io)
 
----
-
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/qingfang-liu/) 
