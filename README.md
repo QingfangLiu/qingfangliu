@@ -12,7 +12,7 @@ I bring expertise from my background in psychology, computational cognitive mode
 - Open to collaborating on applied projects, industry use cases, and cross-disciplinary tools.
 
 
-## Current Projects
+## Currently working on two DS projects:
 
 - [**Climate Risk Modeling in Bhutan**](https://github.com/QingfangLiu/bhutan_climate_modeling)  
   
@@ -22,6 +22,14 @@ I bring expertise from my background in psychology, computational cognitive mode
 
   Applying variational autoencoders (VAEs) to identify latent structures in functional connectivity, aiming to reveal TMS effects on resting-state fMRI data.
 
+
+## 📚 My ML/DL Learning Journey
+
+- To know what ML/DL methods I have studied during my journey:  
+  👉 Check out [**ml-dl-notebooks**](https://github.com/QingfangLiu/ml-dl-notebooks) — this repo contains my Jupyter notebooks from learning and experimenting with various machine learning and deep learning methods.
+
+- To see what small-scale projects I have done during my journey:  
+  👉 Visit [**mini-ml-dl-projects**](https://github.com/QingfangLiu/mini-ml-dl-projects) — this repo includes toy projects where I applied ML/DL techniques to solve specific problems or explore interesting ideas.
 
 ## Learn More
 
