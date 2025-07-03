@@ -18,8 +18,8 @@ I bring expertise from my background in psychology, computational cognitive mode
   
   Collaborating on a project to predict extreme weather events (e.g., glacial lake outburst floods and monsoon floods) using meteorological data and geospatial analysis.
 
-- [**Resting-State fMRI with Conditional VAE**] (https://github.com/QingfangLiu/vae-fmri-tms)  
-  Applying conditional variational autoencoders (cVAEs) to identify latent structures in resting-state fMRI data, aiming to improve understanding of brain–behavior relationships.
+- [**Resting-State fMRI with VAEs**](https://github.com/QingfangLiu/vae-fmri-tms)  
+  Applying variational autoencoders (VAEs) to identify latent structures in functional connectivity, aiming to reveal TMS effects on resting-state fMRI data.
 
 
 ## Learn More
