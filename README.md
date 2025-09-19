@@ -16,7 +16,7 @@ I bring expertise from my background in psychology, computational cognitive mode
 
 - [**Climate Risk Modeling in Bhutan**](https://github.com/QingfangLiu/bhutan_climate_modeling)  
   
-  Collaborating on a project to predict extreme weather events (e.g., glacial lake outburst floods and monsoon floods) using meteorological data and geospatial analysis.
+  Collaborating on a project to predict riverine flood using meteorological and geospatial data.
 
 - [**Resting-State fMRI with VAEs**](https://github.com/QingfangLiu/vae-fmri-tms)  
 
