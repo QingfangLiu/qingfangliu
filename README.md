@@ -1,8 +1,11 @@
-## Hi there, I'm Qingfang Liu (刘晴方) 
+## Hi there, I'm Qingfang Liu
 
 Welcome to my GitHub.
 
-I bring expertise from my background in psychology, computational cognitive modeling, and cognitive neuroscience, complemented by my ongoing efforts to stay up to date with advancements in data science and AI. My interdisciplinary training equips me with a unique perspective to understand human needs in the context of technology. It also enables me to recognize what current AI technologies lack—drawing from both computational and biological understandings of human cognition.
+Much of my work focuses on how humans think and act while navigating the world: what computational algorithms can be abstracted from behavior, and what brain structures support those computations. At the same time, I am deeply interested in AI technologies, especially the development of agentic AI systems that better support human work. My current work in this area focuses on applying agentic AI systems to advance biomedical knowledge synthesis.
+
+
+
 
 
 
